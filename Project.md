@@ -23,7 +23,7 @@ Tools & Skills Used:
 Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Data Cleaning, Data Analysis, Dashboard Designing, Advanced Excel.
 
 # Dashboard
-<a herf= "https://github.com/Abhi283-2/Excel-Project/blob/main/Dashboard.png">Dashboard-view</a>
+<a href= "https://github.com/Abhi283-2/Excel-Project/blob/main/Dashboard.png">Dashboard-view</a>
 
 Objective:
 The main objective of this project is to convert raw sales data into meaningful insights that help businesses understand customer behavior, sales trends, and overall business performance for better decision-making.
